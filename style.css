@@ -16,6 +16,7 @@
     #droite {
         postion: relative;
         padding: 20px 110px 20px 240px;
+        line-height: 30px;
     }
     hr {
         background-color: #2C91E1;
@@ -34,7 +35,7 @@
         width:30%;
         height: 100%;
         float: left;
-        bottom: 296px;
+        bottom: 354px;
         color: white;
     }
     h2 {
